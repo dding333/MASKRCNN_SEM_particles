@@ -50,7 +50,7 @@ Ensure PyTorch, Torchvision, tqdm, and other required libraries are installed.
 
 Run train.py
 
-python train_mask_rcnn.py \
+python train.py \
     --data-path /path/to/dataset \
     --batch-size 2 \
     --epochs 30 \
