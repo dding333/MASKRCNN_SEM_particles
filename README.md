@@ -62,7 +62,7 @@ Run predict.py
 python predict.py \
   --data-path /path/to/dataset \
   --checkpoint-path checkpoints/<timestamp>/best_model.pth \
-  --output-dir output \
+  --output-dir results \
   --evaluate-all
 --data-path: same folder containing images + JSONs.
 
