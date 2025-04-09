@@ -20,9 +20,9 @@ Summary Metrics: mAP@[0.5:0.95]: 0.5928
 
 ## Example Detection Result
 
-Below is an example of the Mask R-CNN output on the nanoparticle (dot) dataset. One side shows the ground-truth label and other side shows the model detection:
+Below is an example of the Mask R-CNN output on the nanoparticle (dot) dataset. The upper shows the ground-truth label and the lower shows the model detection:
 
-![Detection Result](MASKRCNN_SEM_particles/results/fine_tuned/prediction_s2_004_aug_2_piece_5.jpg)
+![Detection Result](results/fine_tuned/prediction_s2_004_aug_2_piece_5.jpg)
 
 ## Repository Structure
 
