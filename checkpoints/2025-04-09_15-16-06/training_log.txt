@@ -1,0 +1,44 @@
+Training command: python main_repeat_loss_not_down.py --data-path /afs/crc.nd.edu/user/d/dding3/mask_rcnn_torch/4/Datasets/dots/jsons/output_json5/ --batch-size 2 --epochs 30 --learning-rate 5e-4 --train-size 3072
+Training started at: 2025-04-09_15-16-06
+
+Configuration:
+Data path: /afs/crc.nd.edu/user/d/dding3/mask_rcnn_torch/4/Datasets/dots/jsons/output_json5/
+Batch size: 2
+Epochs: 30
+Learning rate: 0.0005
+Train size: 3072
+Device: cuda
+
+Training Log:
+Epoch 1/30 | Train Loss: 0.6263 | Valid Loss: 0.4791
+Epoch 2/30 | Train Loss: 0.4582 | Valid Loss: 0.4229
+Epoch 3/30 | Train Loss: 0.4551 | Valid Loss: 0.4155
+Epoch 4/30 | Train Loss: 0.4736 | Valid Loss: 0.4384
+Epoch 5/30 | Train Loss: 0.4611 | Valid Loss: 0.4185
+Epoch 6/30 | Train Loss: 0.4767 | Valid Loss: 0.4696
+Epoch 7/30 | Train Loss: 0.4669 | Valid Loss: 0.4953
+Epoch 8/30 | Train Loss: 0.4672 | Valid Loss: 0.4426
+Epoch 9/30 | Train Loss: 0.4545 | Valid Loss: 0.4506
+Epoch 10/30 | Train Loss: 0.4346 | Valid Loss: 0.4089
+Epoch 11/30 | Train Loss: 0.4483 | Valid Loss: 0.4405
+Epoch 12/30 | Train Loss: 0.4282 | Valid Loss: 0.4218
+Epoch 13/30 | Train Loss: 0.4391 | Valid Loss: 0.4082
+Epoch 14/30 | Train Loss: 0.4287 | Valid Loss: 0.4474
+Epoch 15/30 | Train Loss: 0.4254 | Valid Loss: 0.4051
+Epoch 16/30 | Train Loss: 0.4070 | Valid Loss: 0.3953
+Epoch 17/30 | Train Loss: 0.4108 | Valid Loss: 0.4065
+Epoch 18/30 | Train Loss: 0.4047 | Valid Loss: 0.3953
+Epoch 19/30 | Train Loss: 0.3924 | Valid Loss: 0.3929
+Epoch 20/30 | Train Loss: 0.3965 | Valid Loss: 0.3766
+Epoch 21/30 | Train Loss: 0.4032 | Valid Loss: 0.3709
+Epoch 22/30 | Train Loss: 0.3773 | Valid Loss: 0.3641
+Epoch 23/30 | Train Loss: 0.3753 | Valid Loss: 0.3641
+Epoch 24/30 | Train Loss: 0.3624 | Valid Loss: 0.3669
+Epoch 25/30 | Train Loss: 0.3594 | Valid Loss: 0.3597
+Epoch 26/30 | Train Loss: 0.3574 | Valid Loss: 0.3678
+Epoch 27/30 | Train Loss: 0.3504 | Valid Loss: 0.3662
+Epoch 28/30 | Train Loss: 0.3470 | Valid Loss: 0.3606
+Epoch 29/30 | Train Loss: 0.3425 | Valid Loss: 0.3696
+Epoch 30/30 | Train Loss: 0.3383 | Valid Loss: 0.3643
+
+Training completed. Best validation loss: 0.3597
